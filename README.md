@@ -17,4 +17,4 @@ Run the code on data_clean.ipynb in jupyter notebook. This will create a merged 
 
 You can view my Tableau presentation and dashboard via below link:
 
-https://public.tableau.com/app/profile/john.e.antony/viz/Tableauassignment_16704840297650/Presentation?publish=yes
+https://public.tableau.com/views/Tableauassignment_16704840297650/Presentation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
